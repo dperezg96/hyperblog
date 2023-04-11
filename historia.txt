@@ -1,4 +1,3 @@
 Prueba documentos
-segunda linea
-vida y su cafe
 
+vamos a hablar de como git ayuda
